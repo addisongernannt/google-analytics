@@ -1,0 +1,114 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
+print("Hello World!")
+
+
+# In[2]:
+
+
+print(22)
+
+
+# In[3]:
+
+
+(5 + 4) / 3
+
+
+# In[4]:
+
+
+country = 'Brasil'
+age = 30
+
+
+# In[6]:
+
+
+print(country)
+print(age)
+
+
+# In[9]:
+
+
+10**3 == 1000
+
+
+# In[10]:
+
+
+10**3 = 1000
+
+
+# In[11]:
+
+
+10 * 3 == 40
+
+
+# In[12]:
+
+
+10 * 3 == age
+
+
+# In[20]:
+
+
+if age >= 10:
+        print('adult')
+else:
+        print('minor')
+
+
+# In[23]:
+
+
+def is_adult(age):
+    if age >= 18:
+        print('adult')
+    else:
+        print('minor')
+
+
+# In[24]:
+
+
+is_adult(14)
+
+
+# In[25]:
+
+
+is_adult(21)
+
+
+# In[26]:
+
+
+new_list = [20,25,10,5]
+sorted(new_list)
+
+
+# In[27]:
+
+
+print(new_list)
+
+
+# In[29]:
+
+
+sorted(new_list)
+
+
+# In[ ]:
+
+
+
+
